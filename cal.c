@@ -5,4 +5,8 @@ int main(int argc, char const *argv[]) {
   printf("%d",sub(x,y));
 
   return 0;
+ }
+
+function sub(int x,int y){
+  return x-y;
 }
